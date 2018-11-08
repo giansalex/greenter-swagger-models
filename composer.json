@@ -1,0 +1,7 @@
+{
+    "require": {
+        "giansalex/swagger-objects": "^1.0",
+        "greenter/core": "^2.1",
+        "symfony/yaml": "^4.1"
+    }
+}
