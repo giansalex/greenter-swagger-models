@@ -1,7 +1,9 @@
 {
     "require": {
-        "giansalex/swagger-objects": "^1.0",
-        "greenter/core": "^2.1",
-        "symfony/yaml": "^4.1"
-    }
+        "giansalex/swagger-objects": "^1.1",
+        "greenter/core": "^5.0",
+        "symfony/yaml": "^5.4"
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev"
 }
